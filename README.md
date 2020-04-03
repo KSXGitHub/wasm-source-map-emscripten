@@ -1,17 +1,23 @@
 # Example with WebAssembly source maps
 
-## Prepare emcc
+## Preview
+
+Go to https://ksxgithub.github.io/wasm-source-map-emscripten/pi.html, open DevTools, open "Source" tab.
+
+## Development
+
+### Prepare emcc
 
 - Install emsdk and activate incoming version.
 - If needed, `source emsdk_env.sh`
 
-## Build
+### Build
 
 ```
 make
 ```
 
-## Testing
+### Testing
 
 Open in Firefox Nightly via local server at http://localhost:8000/pi.html
 
