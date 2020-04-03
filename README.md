@@ -2,7 +2,7 @@
 
 ## Preview
 
-Go to https://ksxgithub.github.io/wasm-source-map-emscripten/pi.html, open DevTools, open "Source" tab.
+Go to https://ksxgithub.github.io/wasm-source-map-emscripten/pi.html, open DevTools, open "Source" tab, find C++ files, set and few breakpoints and see.
 
 ## Development
 
